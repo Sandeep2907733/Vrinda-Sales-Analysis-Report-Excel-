@@ -1,4 +1,4 @@
-# Vrinda Sales Analysis Report (Excel)
+# Vrinda's Sales Analysis Report (Excel)
 
 # Overview
 This project analyzes Vrinda Store sales data using Microsoft Excel to uncover trends, customer behavior, and key business insights. The report converts raw data into a structured and interactive Excel dashboard for decision-making.
